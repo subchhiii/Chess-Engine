@@ -1,0 +1,1 @@
+hyb_d vs Stockfish(skill 6, 0.01s/move): 3 wins, 11 draws, 6 losses over 20 games  (score 42.5%)

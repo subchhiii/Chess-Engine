@@ -1,0 +1,452 @@
+match,opening,a_colour,result_for_a,plies,reason
+"cnn_v7@adaptive vs Stockfish(skill 0, 0.01s/move)",0,white,W,55,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 0, 0.01s/move)",0,black,W,52,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 0, 0.01s/move)",1,white,W,17,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 0, 0.01s/move)",1,black,W,54,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 0, 0.01s/move)",2,white,W,63,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 0, 0.01s/move)",2,black,W,50,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 4, 0.01s/move)",0,white,D,200,move cap (100)
+"cnn_v7@adaptive vs Stockfish(skill 4, 0.01s/move)",0,black,L,93,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 4, 0.01s/move)",1,white,W,179,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 4, 0.01s/move)",1,black,L,25,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 4, 0.01s/move)",2,white,D,89,repetition
+"cnn_v7@adaptive vs Stockfish(skill 4, 0.01s/move)",2,black,W,62,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 4, 0.01s/move)",3,white,W,91,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 4, 0.01s/move)",3,black,L,159,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 4, 0.01s/move)",4,white,D,127,repetition
+"cnn_v7@adaptive vs Stockfish(skill 4, 0.01s/move)",4,black,L,79,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 4, 0.01s/move)",5,white,D,182,repetition
+"cnn_v7@adaptive vs Stockfish(skill 4, 0.01s/move)",5,black,W,96,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 4, 0.01s/move)",6,white,L,160,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 4, 0.01s/move)",6,black,W,106,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 4, 0.01s/move)",7,white,W,69,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 4, 0.01s/move)",7,black,W,84,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 4, 0.01s/move)",8,white,W,117,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 4, 0.01s/move)",8,black,D,98,repetition
+"cnn_v7@adaptive vs Stockfish(skill 4, 0.01s/move)",9,white,D,163,repetition
+"cnn_v7@adaptive vs Stockfish(skill 4, 0.01s/move)",9,black,W,96,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 5, 0.01s/move)",0,white,D,200,move cap (100)
+"cnn_v7@adaptive vs Stockfish(skill 5, 0.01s/move)",0,black,D,200,move cap (100)
+"cnn_v7@adaptive vs Stockfish(skill 5, 0.01s/move)",1,white,W,51,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 5, 0.01s/move)",1,black,L,103,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 5, 0.01s/move)",2,white,D,200,move cap (100)
+"cnn_v7@adaptive vs Stockfish(skill 5, 0.01s/move)",2,black,L,165,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 5, 0.01s/move)",3,white,L,104,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 5, 0.01s/move)",3,black,L,85,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 5, 0.01s/move)",4,white,D,113,repetition
+"cnn_v7@adaptive vs Stockfish(skill 5, 0.01s/move)",4,black,L,135,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 5, 0.01s/move)",5,white,D,59,repetition
+"cnn_v7@adaptive vs Stockfish(skill 5, 0.01s/move)",5,black,W,74,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 5, 0.01s/move)",6,white,L,158,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 5, 0.01s/move)",6,black,W,72,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 5, 0.01s/move)",7,white,L,138,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 5, 0.01s/move)",7,black,L,167,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 5, 0.01s/move)",8,white,L,192,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 5, 0.01s/move)",8,black,L,107,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 5, 0.01s/move)",9,white,W,27,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 5, 0.01s/move)",9,black,D,134,repetition
+"cnn_v7@adaptive vs Stockfish(skill 6, 0.01s/move)",0,white,D,200,move cap (100)
+"cnn_v7@adaptive vs Stockfish(skill 6, 0.01s/move)",0,black,L,147,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 6, 0.01s/move)",1,white,W,17,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 6, 0.01s/move)",1,black,L,65,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 6, 0.01s/move)",2,white,L,154,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 6, 0.01s/move)",2,black,D,200,move cap (100)
+"cnn_v7@adaptive vs Stockfish(skill 6, 0.01s/move)",3,white,D,200,move cap (100)
+"cnn_v7@adaptive vs Stockfish(skill 6, 0.01s/move)",3,black,D,200,move cap (100)
+"cnn_v7@adaptive vs Stockfish(skill 6, 0.01s/move)",4,white,L,82,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 6, 0.01s/move)",4,black,L,101,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 6, 0.01s/move)",5,white,L,164,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 6, 0.01s/move)",5,black,D,124,repetition
+"cnn_v7@adaptive vs Stockfish(skill 6, 0.01s/move)",6,white,L,78,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 6, 0.01s/move)",6,black,L,141,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 6, 0.01s/move)",7,white,W,107,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 6, 0.01s/move)",7,black,L,185,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 6, 0.01s/move)",8,white,D,171,repetition
+"cnn_v7@adaptive vs Stockfish(skill 6, 0.01s/move)",8,black,L,41,checkmate
+"cnn_v7@adaptive vs Stockfish(skill 6, 0.01s/move)",9,white,D,183,repetition
+"cnn_v7@adaptive vs Stockfish(skill 6, 0.01s/move)",9,black,W,112,checkmate
+"hyb_d@adaptive vs Stockfish(skill 4, 0.01s/move)",0,white,D,167,repetition
+"hyb_d@adaptive vs Stockfish(skill 4, 0.01s/move)",0,black,W,172,checkmate
+"hyb_d@adaptive vs Stockfish(skill 4, 0.01s/move)",1,white,W,81,checkmate
+"hyb_d@adaptive vs Stockfish(skill 4, 0.01s/move)",1,black,D,200,move cap (100)
+"hyb_d@adaptive vs Stockfish(skill 4, 0.01s/move)",2,white,D,109,repetition
+"hyb_d@adaptive vs Stockfish(skill 4, 0.01s/move)",2,black,W,58,checkmate
+"hyb_d@adaptive vs Stockfish(skill 4, 0.01s/move)",3,white,W,115,checkmate
+"hyb_d@adaptive vs Stockfish(skill 4, 0.01s/move)",3,black,W,90,checkmate
+"hyb_d@adaptive vs Stockfish(skill 4, 0.01s/move)",4,white,L,120,checkmate
+"hyb_d@adaptive vs Stockfish(skill 4, 0.01s/move)",4,black,W,76,checkmate
+"hyb_d@adaptive vs Stockfish(skill 4, 0.01s/move)",5,white,W,69,checkmate
+"hyb_d@adaptive vs Stockfish(skill 4, 0.01s/move)",5,black,L,83,checkmate
+"hyb_d@adaptive vs Stockfish(skill 4, 0.01s/move)",6,white,L,116,checkmate
+"hyb_d@adaptive vs Stockfish(skill 4, 0.01s/move)",6,black,D,196,repetition
+"hyb_d@adaptive vs Stockfish(skill 4, 0.01s/move)",7,white,D,87,repetition
+"hyb_d@adaptive vs Stockfish(skill 4, 0.01s/move)",7,black,D,172,repetition
+"hyb_d@adaptive vs Stockfish(skill 4, 0.01s/move)",8,white,W,57,checkmate
+"hyb_d@adaptive vs Stockfish(skill 4, 0.01s/move)",8,black,W,98,checkmate
+"hyb_d@adaptive vs Stockfish(skill 4, 0.01s/move)",9,white,W,99,checkmate
+"hyb_d@adaptive vs Stockfish(skill 4, 0.01s/move)",9,black,L,91,checkmate
+"hyb_d@adaptive vs Stockfish(skill 5, 0.01s/move)",0,white,L,70,checkmate
+"hyb_d@adaptive vs Stockfish(skill 5, 0.01s/move)",0,black,W,50,checkmate
+"hyb_d@adaptive vs Stockfish(skill 5, 0.01s/move)",1,white,L,122,checkmate
+"hyb_d@adaptive vs Stockfish(skill 5, 0.01s/move)",1,black,D,200,move cap (100)
+"hyb_d@adaptive vs Stockfish(skill 5, 0.01s/move)",2,white,D,200,move cap (100)
+"hyb_d@adaptive vs Stockfish(skill 5, 0.01s/move)",2,black,L,43,checkmate
+"hyb_d@adaptive vs Stockfish(skill 5, 0.01s/move)",3,white,W,97,checkmate
+"hyb_d@adaptive vs Stockfish(skill 5, 0.01s/move)",3,black,L,151,checkmate
+"hyb_d@adaptive vs Stockfish(skill 5, 0.01s/move)",4,white,D,123,repetition
+"hyb_d@adaptive vs Stockfish(skill 5, 0.01s/move)",4,black,L,145,checkmate
+"hyb_d@adaptive vs Stockfish(skill 5, 0.01s/move)",5,white,W,111,checkmate
+"hyb_d@adaptive vs Stockfish(skill 5, 0.01s/move)",5,black,D,200,move cap (100)
+"hyb_d@adaptive vs Stockfish(skill 5, 0.01s/move)",6,white,D,55,repetition
+"hyb_d@adaptive vs Stockfish(skill 5, 0.01s/move)",6,black,W,78,checkmate
+"hyb_d@adaptive vs Stockfish(skill 5, 0.01s/move)",7,white,W,95,checkmate
+"hyb_d@adaptive vs Stockfish(skill 5, 0.01s/move)",7,black,L,67,checkmate
+"hyb_d@adaptive vs Stockfish(skill 5, 0.01s/move)",8,white,D,200,move cap (100)
+"hyb_d@adaptive vs Stockfish(skill 5, 0.01s/move)",8,black,D,200,move cap (100)
+"hyb_d@adaptive vs Stockfish(skill 5, 0.01s/move)",9,white,L,106,checkmate
+"hyb_d@adaptive vs Stockfish(skill 5, 0.01s/move)",9,black,D,104,repetition
+"hyb_d@adaptive vs Stockfish(skill 6, 0.01s/move)",0,white,L,86,checkmate
+"hyb_d@adaptive vs Stockfish(skill 6, 0.01s/move)",0,black,D,116,repetition
+"hyb_d@adaptive vs Stockfish(skill 6, 0.01s/move)",1,white,D,200,move cap (100)
+"hyb_d@adaptive vs Stockfish(skill 6, 0.01s/move)",1,black,L,137,checkmate
+"hyb_d@adaptive vs Stockfish(skill 6, 0.01s/move)",0,white,L,82,checkmate
+"hyb_d@adaptive vs Stockfish(skill 6, 0.01s/move)",0,black,W,78,checkmate
+"hyb_d@adaptive vs Stockfish(skill 6, 0.01s/move)",1,white,D,200,move cap (100)
+"hyb_d@adaptive vs Stockfish(skill 6, 0.01s/move)",1,black,L,117,checkmate
+"hyb_d@adaptive vs Stockfish(skill 6, 0.01s/move)",2,white,D,157,repetition
+"hyb_d@adaptive vs Stockfish(skill 6, 0.01s/move)",2,black,L,145,checkmate
+"hyb_d@adaptive vs Stockfish(skill 6, 0.01s/move)",3,white,D,200,move cap (100)
+"hyb_d@adaptive vs Stockfish(skill 6, 0.01s/move)",3,black,L,159,checkmate
+"hyb_d@adaptive vs Stockfish(skill 6, 0.01s/move)",4,white,D,200,move cap (100)
+"hyb_d@adaptive vs Stockfish(skill 6, 0.01s/move)",4,black,L,95,checkmate
+"hyb_d@adaptive vs Stockfish(skill 6, 0.01s/move)",5,white,L,74,checkmate
+"hyb_d@adaptive vs Stockfish(skill 6, 0.01s/move)",5,black,D,148,repetition
+"hyb_d@adaptive vs Stockfish(skill 6, 0.01s/move)",6,white,D,111,repetition
+"hyb_d@adaptive vs Stockfish(skill 6, 0.01s/move)",6,black,D,76,repetition
+"hyb_d@adaptive vs Stockfish(skill 6, 0.01s/move)",7,white,D,200,move cap (100)
+"hyb_d@adaptive vs Stockfish(skill 6, 0.01s/move)",7,black,L,99,checkmate
+"hyb_d@adaptive vs Stockfish(skill 6, 0.01s/move)",8,white,L,48,checkmate
+"hyb_d@adaptive vs Stockfish(skill 6, 0.01s/move)",8,black,L,147,checkmate
+"hyb_d@adaptive vs Stockfish(skill 6, 0.01s/move)",9,white,D,83,repetition
+"hyb_d@adaptive vs Stockfish(skill 6, 0.01s/move)",9,black,L,131,checkmate
+"gph_b@ab2 vs Stockfish(skill 5)",0,white,D,123,repetition
+"gph_b@ab2 vs Stockfish(skill 5)",1,white,W,15,checkmate
+"gph_b@ab2 vs Stockfish(skill 5)",1,black,D,54,repetition
+"gph_b@ab2 vs Stockfish(skill 5)",2,white,W,69,checkmate
+"gph_b@ab2 vs Stockfish(skill 5)",2,black,W,112,checkmate
+"gph_b@ab2 vs Stockfish(skill 5)",5,black,W,128,checkmate
+"gph_b@ab2 vs Stockfish(skill 5)",7,black,D,88,repetition
+"gph_b@ab2 vs Stockfish(skill 5)",6,white,W,71,checkmate
+"gph_b@ab2 vs Stockfish(skill 5)",0,white,W,73,checkmate
+"gph_b@ab2 vs Stockfish(skill 5)",5,white,W,143,checkmate
+"gph_b@ab2 vs Stockfish(skill 5)",4,white,W,87,checkmate
+"gph_b@ab2 vs Stockfish(skill 5)",3,white,L,102,checkmate
+"gph_b@ab2 vs Stockfish(skill 5)",0,black,D,166,insufficient material
+"gph_b@ab2 vs Stockfish(skill 5)",3,black,D,144,repetition
+"gph_b@ab2 vs Stockfish(skill 5)",8,black,L,153,checkmate
+"gph_b@ab2 vs Stockfish(skill 5)",9,white,D,200,move cap (100)
+"gph_b@ab2 vs Stockfish(skill 5)",9,black,D,200,move cap (100)
+"gph_b@ab2 vs Stockfish(skill 5)",8,white,D,200,move cap (100)
+"gph_b@ab2 vs Stockfish(skill 5)",6,black,D,200,move cap (100)
+"gph_b@ab2 vs Stockfish(skill 5)",7,white,D,155,repetition
+"gph_b@ab2 vs Stockfish(skill 5)",4,black,D,198,repetition
+"gph_b@mcts vs Stockfish(skill 5)",8,black,L,47,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",9,white,L,48,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",4,black,L,57,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",3,black,L,65,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",3,white,L,56,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",4,white,L,74,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",7,white,L,72,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",2,black,L,85,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",2,white,L,72,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",7,black,L,83,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",6,white,L,90,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",5,white,L,112,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",0,black,L,119,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",1,white,L,132,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",0,white,L,150,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",8,white,L,156,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",1,black,L,177,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",9,black,L,161,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",5,black,L,195,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",6,black,D,200,move cap (100)
+"gph_b@ab2 vs Stockfish(skill 6)",3,white,L,58,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",9,white,W,55,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",4,black,D,134,insufficient material
+"gph_b@ab2 vs Stockfish(skill 6)",1,white,W,79,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",4,white,D,149,repetition
+"gph_b@ab2 vs Stockfish(skill 6)",8,black,D,112,repetition
+"gph_b@ab2 vs Stockfish(skill 6)",6,black,D,114,repetition
+"gph_b@ab2 vs Stockfish(skill 6)",5,white,L,134,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",3,black,L,87,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",2,white,D,200,move cap (100)
+"gph_b@ab2 vs Stockfish(skill 6)",0,black,L,141,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",1,black,D,138,repetition
+"gph_b@ab2 vs Stockfish(skill 6)",7,black,D,200,move cap (100)
+"gph_b@ab2 vs Stockfish(skill 6)",8,white,L,98,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",0,white,D,200,move cap (100)
+"gph_b@ab2 vs Stockfish(skill 6)",7,white,D,177,insufficient material
+"gph_b@ab2 vs Stockfish(skill 6)",2,black,W,106,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",9,black,D,200,move cap (100)
+"gph_b@ab2 vs Stockfish(skill 6)",6,white,L,192,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",5,black,W,200,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",1,white,L,28,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",6,black,L,45,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",9,black,L,53,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",1,black,L,45,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",7,white,L,46,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",5,white,L,54,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",0,white,L,54,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",3,black,L,69,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",5,black,L,59,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",2,white,L,58,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",4,white,L,60,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",8,black,L,77,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",7,black,L,71,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",0,black,L,83,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",2,black,L,87,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",3,white,L,88,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",6,white,L,116,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",8,white,L,134,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",9,white,L,150,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",4,black,L,141,checkmate
+"gph_b@ab2 vs Stockfish(skill 5)",1,black,L,11,checkmate
+"gph_b@ab2 vs Stockfish(skill 5)",0,white,L,30,checkmate
+"gph_b@ab2 vs Stockfish(skill 5)",8,black,L,25,checkmate
+"gph_b@ab2 vs Stockfish(skill 5)",5,white,L,32,checkmate
+"gph_b@ab2 vs Stockfish(skill 5)",5,black,L,41,checkmate
+"gph_b@ab2 vs Stockfish(skill 5)",9,black,L,37,checkmate
+"gph_b@ab2 vs Stockfish(skill 5)",8,white,L,46,checkmate
+"gph_b@ab2 vs Stockfish(skill 5)",6,white,L,46,checkmate
+"gph_b@ab2 vs Stockfish(skill 5)",2,black,L,55,checkmate
+"gph_b@ab2 vs Stockfish(skill 5)",7,black,L,57,checkmate
+"gph_b@ab2 vs Stockfish(skill 5)",4,white,L,58,checkmate
+"gph_b@ab2 vs Stockfish(skill 5)",2,white,L,72,checkmate
+"gph_b@ab2 vs Stockfish(skill 5)",0,black,L,81,checkmate
+"gph_b@ab2 vs Stockfish(skill 5)",4,black,L,71,checkmate
+"gph_b@ab2 vs Stockfish(skill 5)",1,white,L,90,checkmate
+"gph_b@ab2 vs Stockfish(skill 5)",6,black,L,85,checkmate
+"gph_b@ab2 vs Stockfish(skill 5)",3,black,L,85,checkmate
+"gph_b@ab2 vs Stockfish(skill 5)",3,white,L,112,checkmate
+"gph_b@ab2 vs Stockfish(skill 5)",9,white,D,105,repetition
+"gph_b@ab2 vs Stockfish(skill 5)",7,white,L,126,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",7,white,L,14,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",1,black,L,15,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",5,white,L,20,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",8,black,L,15,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",0,black,L,21,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",4,white,L,22,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",5,black,L,23,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",9,white,L,26,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",6,white,L,30,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",0,white,L,38,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",3,white,L,44,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",8,white,L,40,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",2,black,L,41,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",6,black,L,41,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",7,black,L,41,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",2,white,L,44,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",4,black,L,51,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",1,white,L,50,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",3,black,L,55,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",9,black,L,57,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",1,black,L,11,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",7,black,L,35,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",1,white,L,44,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",8,black,L,49,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",6,white,L,48,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",9,black,L,47,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",0,white,L,52,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",4,black,L,53,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",4,white,L,52,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",7,white,L,54,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",3,black,L,55,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",3,white,L,62,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",5,black,L,57,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",8,white,L,58,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",5,white,L,62,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",6,black,L,73,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",9,white,L,76,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",0,black,L,83,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",2,white,L,84,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",2,black,L,91,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",1,black,L,19,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",8,black,L,19,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",4,white,L,22,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",3,black,L,23,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",6,white,L,24,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",0,black,L,29,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",5,white,L,32,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",9,white,L,34,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",4,black,L,39,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",1,white,L,36,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",0,white,L,38,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",6,black,L,41,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",8,white,L,44,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",3,white,L,44,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",7,black,L,49,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",9,black,L,45,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",7,white,L,46,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",5,black,L,55,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",2,white,L,58,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",2,black,L,61,checkmate
+"gph_b@ab2 vs Stockfish(skill 5)",1,white,W,17,checkmate
+"gph_b@ab2 vs Stockfish(skill 5)",1,black,W,44,checkmate
+"gph_b@ab2 vs Stockfish(skill 5)",6,black,D,66,repetition
+"gph_b@ab2 vs Stockfish(skill 5)",8,black,D,200,move cap (100)
+"gph_b@ab2 vs Stockfish(skill 5)",3,white,L,114,checkmate
+"gph_b@ab2 vs Stockfish(skill 5)",7,white,W,83,checkmate
+"gph_b@ab2 vs Stockfish(skill 5)",2,black,W,72,checkmate
+"gph_b@ab2 vs Stockfish(skill 5)",7,black,D,200,move cap (100)
+"gph_b@ab2 vs Stockfish(skill 5)",9,white,D,200,move cap (100)
+"gph_b@ab2 vs Stockfish(skill 5)",0,black,W,70,checkmate
+"gph_b@ab2 vs Stockfish(skill 5)",5,black,D,73,repetition
+"gph_b@ab2 vs Stockfish(skill 5)",0,white,D,200,move cap (100)
+"gph_b@ab2 vs Stockfish(skill 5)",3,black,W,180,checkmate
+"gph_b@ab2 vs Stockfish(skill 5)",6,white,D,142,repetition
+"gph_b@ab2 vs Stockfish(skill 5)",9,black,W,140,checkmate
+"gph_b@ab2 vs Stockfish(skill 5)",2,white,D,163,repetition
+"gph_b@ab2 vs Stockfish(skill 5)",4,black,D,200,move cap (100)
+"gph_b@ab2 vs Stockfish(skill 5)",5,white,L,150,checkmate
+"gph_b@ab2 vs Stockfish(skill 5)",4,white,D,200,move cap (100)
+"gph_b@ab2 vs Stockfish(skill 5)",8,white,D,195,repetition
+"gph_b@mcts vs Stockfish(skill 5)",8,black,L,45,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",7,black,L,43,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",7,white,L,36,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",4,white,L,46,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",1,black,L,47,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",2,white,L,46,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",9,black,L,55,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",4,black,D,64,repetition
+"gph_b@mcts vs Stockfish(skill 5)",0,white,L,74,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",5,white,L,84,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",3,white,L,80,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",6,white,L,94,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",6,black,L,99,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",3,black,L,99,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",9,white,L,122,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",8,white,L,138,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",1,white,L,138,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",5,black,L,145,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",0,black,L,159,checkmate
+"gph_b@mcts vs Stockfish(skill 5)",2,black,L,183,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",1,white,W,17,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",0,black,W,72,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",6,black,D,194,repetition
+"gph_b@ab2 vs Stockfish(skill 6)",0,white,W,107,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",5,white,W,47,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",7,black,W,72,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",8,black,L,103,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",4,white,W,73,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",9,black,L,145,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",5,black,W,72,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",6,white,W,129,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",1,black,D,200,move cap (100)
+"gph_b@ab2 vs Stockfish(skill 6)",9,white,D,200,move cap (100)
+"gph_b@ab2 vs Stockfish(skill 6)",2,white,D,200,move cap (100)
+"gph_b@ab2 vs Stockfish(skill 6)",3,black,W,134,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",2,black,W,118,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",4,black,W,86,checkmate
+"gph_b@ab2 vs Stockfish(skill 6)",8,white,D,99,repetition
+"gph_b@ab2 vs Stockfish(skill 6)",3,white,D,200,move cap (100)
+"gph_b@ab2 vs Stockfish(skill 6)",7,white,D,200,move cap (100)
+"gph_b@mcts vs Stockfish(skill 6)",5,white,D,65,repetition
+"gph_b@mcts vs Stockfish(skill 6)",3,white,D,61,repetition
+"gph_b@mcts vs Stockfish(skill 6)",4,white,L,60,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",5,black,L,65,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",0,black,L,65,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",7,black,L,79,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",6,black,L,77,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",2,white,L,76,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",1,black,D,82,repetition
+"gph_b@mcts vs Stockfish(skill 6)",9,black,L,87,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",9,white,L,86,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",0,white,L,98,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",7,white,L,98,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",2,black,L,115,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",4,black,L,113,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",8,white,L,124,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",1,white,D,179,repetition
+"gph_b@mcts vs Stockfish(skill 6)",8,black,L,163,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",3,black,L,179,checkmate
+"gph_b@mcts vs Stockfish(skill 6)",6,white,D,200,move cap (100)
+"gph_b@ab2 vs Stockfish(skill 7)",1,white,W,15,checkmate
+"gph_b@ab2 vs Stockfish(skill 7)",2,white,L,90,checkmate
+"gph_b@ab2 vs Stockfish(skill 7)",5,black,D,104,repetition
+"gph_b@ab2 vs Stockfish(skill 7)",0,black,W,94,checkmate
+"gph_b@ab2 vs Stockfish(skill 7)",7,black,D,126,repetition
+"gph_b@ab2 vs Stockfish(skill 7)",2,black,L,151,checkmate
+"gph_b@ab2 vs Stockfish(skill 7)",8,black,W,110,checkmate
+"gph_b@ab2 vs Stockfish(skill 7)",1,black,W,88,checkmate
+"gph_b@ab2 vs Stockfish(skill 7)",5,white,L,116,checkmate
+"gph_b@ab2 vs Stockfish(skill 7)",4,white,L,114,checkmate
+"gph_b@ab2 vs Stockfish(skill 7)",8,white,D,200,move cap (100)
+"gph_b@ab2 vs Stockfish(skill 7)",7,white,D,200,move cap (100)
+"gph_b@ab2 vs Stockfish(skill 7)",3,white,D,139,repetition
+"gph_b@ab2 vs Stockfish(skill 7)",9,white,L,120,checkmate
+"gph_b@ab2 vs Stockfish(skill 7)",9,black,D,200,move cap (100)
+"gph_b@ab2 vs Stockfish(skill 7)",0,white,D,200,move cap (100)
+"gph_b@ab2 vs Stockfish(skill 7)",4,black,D,200,move cap (100)
+"gph_b@ab2 vs Stockfish(skill 7)",3,black,D,200,move cap (100)
+"gph_b@ab2 vs Stockfish(skill 7)",6,black,L,189,checkmate
+"gph_b@ab2 vs Stockfish(skill 7)",6,white,D,200,move cap (100)
+"gph_b@mcts vs Stockfish(skill 7)",8,black,L,29,checkmate
+"gph_b@mcts vs Stockfish(skill 7)",6,white,L,32,checkmate
+"gph_b@mcts vs Stockfish(skill 7)",1,black,L,33,checkmate
+"gph_b@mcts vs Stockfish(skill 7)",8,white,L,44,checkmate
+"gph_b@mcts vs Stockfish(skill 7)",4,white,L,46,checkmate
+"gph_b@mcts vs Stockfish(skill 7)",5,white,L,58,checkmate
+"gph_b@mcts vs Stockfish(skill 7)",3,black,L,63,checkmate
+"gph_b@mcts vs Stockfish(skill 7)",1,white,L,64,checkmate
+"gph_b@mcts vs Stockfish(skill 7)",7,black,L,69,checkmate
+"gph_b@mcts vs Stockfish(skill 7)",0,black,L,63,checkmate
+"gph_b@mcts vs Stockfish(skill 7)",5,black,L,75,checkmate
+"gph_b@mcts vs Stockfish(skill 7)",0,white,L,84,checkmate
+"gph_b@mcts vs Stockfish(skill 7)",9,black,L,83,checkmate
+"gph_b@mcts vs Stockfish(skill 7)",3,white,L,76,checkmate
+"gph_b@mcts vs Stockfish(skill 7)",2,black,L,83,checkmate
+"gph_b@mcts vs Stockfish(skill 7)",2,white,L,96,checkmate
+"gph_b@mcts vs Stockfish(skill 7)",9,white,L,100,checkmate
+"gph_b@mcts vs Stockfish(skill 7)",4,black,L,111,checkmate
+"gph_b@mcts vs Stockfish(skill 7)",7,white,L,136,checkmate
+"gph_b@mcts vs Stockfish(skill 7)",6,black,D,158,repetition
+"gph_b@ab2 vs Stockfish(skill 8)",1,white,W,15,checkmate
+"gph_b@ab2 vs Stockfish(skill 8)",4,black,W,42,checkmate
+"gph_b@ab2 vs Stockfish(skill 8)",5,white,D,125,repetition
+"gph_b@ab2 vs Stockfish(skill 8)",7,black,L,151,checkmate
+"gph_b@ab2 vs Stockfish(skill 8)",6,white,L,144,checkmate
+"gph_b@ab2 vs Stockfish(skill 8)",0,white,D,147,repetition
+"gph_b@ab2 vs Stockfish(skill 8)",7,white,D,200,move cap (100)
+"gph_b@ab2 vs Stockfish(skill 8)",8,black,L,171,checkmate
+"gph_b@ab2 vs Stockfish(skill 8)",2,black,W,100,checkmate
+"gph_b@ab2 vs Stockfish(skill 8)",1,black,L,129,checkmate
+"gph_b@ab2 vs Stockfish(skill 8)",3,black,D,200,move cap (100)
+"gph_b@ab2 vs Stockfish(skill 8)",2,white,W,87,checkmate
+"gph_b@ab2 vs Stockfish(skill 8)",9,black,L,127,checkmate
+"gph_b@ab2 vs Stockfish(skill 8)",4,white,L,196,checkmate
+"gph_b@ab2 vs Stockfish(skill 8)",8,white,D,200,move cap (100)
+"gph_b@ab2 vs Stockfish(skill 8)",5,black,D,200,move cap (100)
+"gph_b@ab2 vs Stockfish(skill 8)",3,white,L,138,checkmate
+"gph_b@ab2 vs Stockfish(skill 8)",9,white,L,150,checkmate
+"gph_b@ab2 vs Stockfish(skill 8)",6,black,D,200,move cap (100)
+"gph_b@ab2 vs Stockfish(skill 8)",0,black,L,175,checkmate
+"gph_b@mcts vs Stockfish(skill 8)",5,black,L,39,checkmate
+"gph_b@mcts vs Stockfish(skill 8)",8,black,L,41,checkmate
+"gph_b@mcts vs Stockfish(skill 8)",9,white,L,46,checkmate
+"gph_b@mcts vs Stockfish(skill 8)",1,white,L,54,checkmate
+"gph_b@mcts vs Stockfish(skill 8)",4,white,L,54,checkmate
+"gph_b@mcts vs Stockfish(skill 8)",2,white,L,60,checkmate
+"gph_b@mcts vs Stockfish(skill 8)",7,white,L,58,checkmate
+"gph_b@mcts vs Stockfish(skill 8)",5,white,L,68,checkmate
+"gph_b@mcts vs Stockfish(skill 8)",0,black,L,71,checkmate
+"gph_b@mcts vs Stockfish(skill 8)",3,white,L,72,checkmate
+"gph_b@mcts vs Stockfish(skill 8)",9,black,L,77,checkmate
+"gph_b@mcts vs Stockfish(skill 8)",0,white,L,84,checkmate
+"gph_b@mcts vs Stockfish(skill 8)",2,black,L,81,checkmate
+"gph_b@mcts vs Stockfish(skill 8)",6,black,L,89,checkmate
+"gph_b@mcts vs Stockfish(skill 8)",4,black,L,93,checkmate
+"gph_b@mcts vs Stockfish(skill 8)",6,white,L,100,checkmate
+"gph_b@mcts vs Stockfish(skill 8)",8,white,L,98,checkmate
+"gph_b@mcts vs Stockfish(skill 8)",1,black,L,139,checkmate
+"gph_b@mcts vs Stockfish(skill 8)",7,black,L,113,checkmate
+"gph_b@mcts vs Stockfish(skill 8)",3,black,L,135,checkmate

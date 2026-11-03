@@ -1,0 +1,4 @@
+cnn_v7 vs Stockfish(skill 5, 0.01s/move): 10 wins, 12 draws, 18 losses over 40 games  (score 40.0%)
+material vs Stockfish(skill 5, 0.01s/move): 0 wins, 2 draws, 38 losses over 40 games  (score 2.5%)
+cnn_v7 vs Stockfish(skill 6, 0.01s/move): 4 wins, 15 draws, 21 losses over 40 games  (score 28.8%)
+material vs Stockfish(skill 6, 0.01s/move): 0 wins, 6 draws, 34 losses over 40 games  (score 7.5%)

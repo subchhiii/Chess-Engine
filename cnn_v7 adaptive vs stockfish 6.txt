@@ -1,0 +1,12 @@
+cnn_v7@adaptive vs Stockfish(skill 6, 0.01s/move): 3 wins, 7 draws, 10 losses over 20 games  (score 32.5%)
+   first bot: avg completed depth 2.95, 0.70 s/move, 2759 nodes/move, positions: {'quiet': 241, 'tactical': 827, 'forcing': 227}
+
+Settings: advanced search (iterative deepening to depth 3, quiescence, transposition table, no time limit), opening plies=4
+
+Settings: advanced search (iterative deepening to depth 3, quiescence, transposition table, no time limit), opening plies=4
+hyb_d@adaptive vs Stockfish(skill 4, 0.01s/move): 10 wins, 6 draws, 4 losses over 20 games  (score 65.0%)
+   first bot: avg completed depth 2.99, 5.51 s/move, 3321 nodes/move, positions: {'quiet': 149, 'tactical': 767, 'forcing': 175}
+hyb_d@adaptive vs Stockfish(skill 5, 0.01s/move): 5 wins, 8 draws, 7 losses over 20 games  (score 45.0%)
+   first bot: avg completed depth 2.86, 3.95 s/move, 2632 nodes/move, positions: {'quiet': 255, 'tactical': 782, 'forcing': 132}
+
+Settings: advanced search (iterative deepening to depth 3, quiescence, transposition table, no time limit), opening plies=4

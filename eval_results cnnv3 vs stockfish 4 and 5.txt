@@ -1,0 +1,10 @@
+
+Settings: advanced search (iterative deepening to depth 3, quiescence, transposition table, no time limit), opening plies=4
+
+Settings: advanced search (iterative deepening to depth 3, quiescence, transposition table, no time limit), opening plies=4
+cnn_v3 vs Stockfish(skill 4, 0.01s/move): 4 wins, 7 draws, 9 losses over 20 games  (score 37.5%)
+material vs Stockfish(skill 4, 0.01s/move): 1 wins, 4 draws, 15 losses over 20 games  (score 15.0%)
+cnn_v3 vs Stockfish(skill 5, 0.01s/move): 2 wins, 5 draws, 13 losses over 20 games  (score 22.5%)
+material vs Stockfish(skill 5, 0.01s/move): 1 wins, 4 draws, 15 losses over 20 games  (score 15.0%)
+
+Settings: advanced search (iterative deepening to depth 3, quiescence, transposition table, no time limit), opening plies=4

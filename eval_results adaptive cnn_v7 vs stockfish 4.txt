@@ -1,0 +1,4 @@
+
+Settings: advanced search (iterative deepening to depth 3, quiescence, transposition table, no time limit), opening plies=4
+cnn_v7@adaptive vs Stockfish(skill 4, 0.01s/move): 9 wins, 6 draws, 5 losses over 20 games  (score 60.0%)
+   first bot: avg completed depth 2.91, 0.81 s/move, 3104 nodes/move, positions: {'quiet': 205, 'tactical': 736, 'forcing': 158}

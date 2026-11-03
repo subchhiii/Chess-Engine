@@ -1,0 +1,1 @@
+bigger network with batchnorm, more epochs and better checkpoint saving helped reduce the mean average error, rmse, r2 and increased correlation and sign agreement

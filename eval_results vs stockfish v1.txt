@@ -1,0 +1,5 @@
+Settings: depth=2, openings=10 (x2 colours), opening plies=4
+ensemble vs material: 15 wins, 5 draws, 0 losses over 20 games  (score 87.5%)
+ensemble vs cnn_v3: 4 wins, 9 draws, 7 losses over 20 games  (score 42.5%)
+cnn_v3 vs material: 13 wins, 7 draws, 0 losses over 20 games  (score 82.5%)
+cnn_v3 vs Stockfish(skill 0): 4 wins, 3 draws, 13 losses over 20 games  (score 27.5%)

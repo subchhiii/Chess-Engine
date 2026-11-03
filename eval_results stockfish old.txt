@@ -1,0 +1,2 @@
+
+Settings: advanced search (iterative deepening to depth 3, quiescence, transposition table, no time limit), opening plies=4

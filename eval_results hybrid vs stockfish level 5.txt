@@ -1,0 +1,5 @@
+
+Settings: advanced search (iterative deepening to depth 3, quiescence, transposition table, no time limit), opening plies=4
+
+Settings: advanced search (iterative deepening to depth 3, quiescence, transposition table, no time limit), opening plies=4
+hyb_d vs Stockfish(skill 5, 0.01s/move): 6 wins, 4 draws, 10 losses over 20 games  (score 40.0%)

@@ -1,0 +1,4 @@
+gph_b@ab2 vs Stockfish(skill 5): 8 wins, 10 draws, 2 losses over 20 games  (score 65.0%)
+gph_b@mcts vs Stockfish(skill 5): 0 wins, 1 draws, 19 losses over 20 games  (score 2.5%)
+gph_b@ab2 vs Stockfish(skill 6): 4 wins, 10 draws, 6 losses over 20 games  (score 45.0%)
+gph_b@mcts vs Stockfish(skill 6): 0 wins, 0 draws, 20 losses over 20 games  (score 0.0%)

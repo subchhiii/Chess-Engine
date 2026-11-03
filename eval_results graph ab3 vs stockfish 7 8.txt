@@ -1,0 +1,10 @@
+
+Parallel evaluation, 23 workers, Stockfish nodes/move: 9281, opening plies 4
+
+Parallel Stockfish Evaluation (Depth 4, Workers: 23) for skill levels: [0, 3, 6]
+
+Parallel Stockfish Evaluation (Depth 4, Workers: 23) for skill levels: [7, 8]
+gph_b@ab2 vs Stockfish(skill 7): 4 wins, 10 draws, 6 losses over 20 games  (score 45.0%)
+gph_b@mcts vs Stockfish(skill 7): 0 wins, 1 draws, 19 losses over 20 games  (score 2.5%)
+gph_b@ab2 vs Stockfish(skill 8): 4 wins, 7 draws, 9 losses over 20 games  (score 37.5%)
+gph_b@mcts vs Stockfish(skill 8): 0 wins, 0 draws, 20 losses over 20 games  (score 0.0%)
